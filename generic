@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="generic.html" class="active">Generic</a></li>
+						<li><a href="elements.html">Elements</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">I am Zakaria Chaudhry</h1>
+							<span class="image fit"><img src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=" alt="" /></span>
+							<p>I am a current student at UMBC pursuing CS and looking to minor in BTA, I am originally from Pakistan, but was born and raised in America. I enjoy playing basketball and watching the NFL, as well. In my free time, I enjoy playing video games, and spedning time with my friends. I live at home and commute to college with my two parents and my brother. 
+								I am deeply passionate about becoming a better coder and continuously improving my skills to tackle more complex and innovative projects. My ultimate goal is to secure an internship at a Fortune 500 company next summer, where I can apply my knowledge, gain invaluable experience, and contribute to impactful work.
+
+I have a solid foundation in coding, having taken multiple Python and coding courses at my university. These courses have equipped me with the technical skills and problem-solving abilities necessary for a successful career in software development. To further hone my expertise, I am currently researching data analytics, a field that fascinates me due to its potential to drive data-driven decision-making and uncover hidden insights.
+
+In addition to my academic pursuits, I have practical experience in creating and managing an online business. I built a website for this business, which not only showcases my coding skills but also demonstrates my ability to apply them in real-world scenarios. This venture has taught me the importance of user experience, efficient design, and the integration of various technologies to achieve a seamless online presence.
+
+I am committed to generating impactful projects that reflect my growth as a coder. By working on diverse and challenging projects, I aim to develop a robust portfolio that showcases my versatility and creativity. My dedication to continuous learning and practical application will undoubtedly prepare me for a successful internship and, ultimately, a rewarding career in the tech industry.
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
