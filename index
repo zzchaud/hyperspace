@@ -25,7 +25,7 @@
                 <ul>
                     <li><a href="#intro">Welcome</a></li>
                     <li><a href="#one">About</a></li>
-                    <li><a href="#goals">Goals</a></li>
+                    <li><a href="#goals">Contact me</a></li>
                 </ul>
             </nav>
         </div>
@@ -60,21 +60,21 @@
             </section>
         </section>
 
-        <!-- Goals -->
-        <section id="goals" class="wrapper style4 fade-up">
+        <!-- Get in touch -->
+        <section id="get in touch" class="wrapper style4 fade-up">
             <div class="inner">
-                <h2>My Goals</h2>
-                <p>These are my professional and personal goals.</p>
+                <h2>Get in touch</h2>
+                <p>Here's how to get in contact with me
                 <div class="features">
                     <section>
-                        <span class="icon solid major fa-bullseye"></span>
-                        <h3>Short-term Goal</h3>
-                        <p>I would like to strengthen my knowledge in multiple different coding languages, and create and understand how to build new projects.</p>
+                       
+                        <h3>My Linkden</h3>
+                        <p>www.linkedin.com/in/zakaria-chaudhry-ba0586291
                     </section>
                     <section>
-                        <span class="icon solid major fa-trophy"></span>
-                        <h3>Long-term Goal</h3>
-                        <p>Land an internship at a Fortune 500 company.</p>
+                       
+                        <h3>My email</h3>
+                        <p> zakariachaudhry11@gmail.com
                     </section>
                 </div>
             </div>
